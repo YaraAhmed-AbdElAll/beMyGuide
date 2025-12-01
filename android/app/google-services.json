@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "966983917476",
+    "project_id": "bemyeyesupgraded",
+    "storage_bucket": "bemyeyesupgraded.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966983917476:android:7689d7f00a16b6e8012b31",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966983917476-044hth119ek3nj2bfpji0map6fm9omdi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app",
+            "certificate_hash": "780cba1d2ae0767376195a5dbab8a44f6fffec22"
+          }
+        },
+        {
+          "client_id": "966983917476-5302n9h460e5eud60pnkmte1vc76hp5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAppZl7qpZeIil7QfnzdMz0ZLNTTryFeOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966983917476-5302n9h460e5eud60pnkmte1vc76hp5b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "966983917476-nkkvfi3mudrfste8ml5937j9er9sc0hg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
